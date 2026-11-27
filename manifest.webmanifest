@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "لعبة المافيا - Pass & Play",
+  "short_name": "المافيا",
+  "description": "لعبة مافيا عربية تعمل أوفلاين على جهاز واحد.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101014",
+  "theme_color": "#101014",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
